@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I’m Caleb Ellis
 
-<!--
-**P1zzamn-Caleb/P1zzamn-Caleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student interested in software development, data, and machine learning. I like building projects that do something useful and visual.
 
-Here are some ideas to get you started:
+Right now I’m focused on improving my skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python development
+📊 Web scraping
+🤖 Machine learning fundamentals
+🌐 Building small full-stack projects
+
+## 🚀 Projects
+### 🏀 Weighted Wins Hoops
+
+A data-driven college basketball ranking system that uses a weighted wins algorithm to evaluate team performance.
+
+Built a full data pipeline using scraped game data
+Designed a custom ranking system based on win quality
+Displayed results through a web interface
+Focused on turning raw sports data into meaningful rankings
+
+🔗 Live site: http://www.weightedwins.com/hoops/
+
+📁 Repo: (add link here)
+
+✍️ Handwriting Recognition (CRNN Model)
+
+A deep learning project that recognizes handwritten words using a convolutional recurrent neural network.
+
+Built with PyTorch
+Combines CNN feature extraction with RNN sequence modeling
+Includes preprocessing, training, and decoding pipeline
+Trained on labeled word image datasets
+
+📁 Repo: (add link here)
