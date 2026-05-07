@@ -21,7 +21,7 @@ Focused on turning raw sports data into meaningful rankings
 
 🔗 Live site: http://www.weightedwins.com/hoops/
 
-📁 Repo: [](https://github.com/P1zzamn-Caleb/Weighted_Wins)
+📁 Repo: ![](https://github.com/P1zzamn-Caleb/Weighted_Wins)
 
 ### ✍️ Handwriting Recognition (CRNN Model)
 
@@ -32,7 +32,7 @@ Combines CNN feature extraction with RNN sequence modeling
 Includes preprocessing, training, and decoding pipeline
 Trained on labeled word image datasets
 
-📁 Repo: [](https://github.com/P1zzamn-Caleb/AI_Handwriting_Project)
+📁 Repo: ![](https://github.com/P1zzamn-Caleb/AI_Handwriting_Project)
 
 ## 🛠️ Tech Stack
 💻 C++
