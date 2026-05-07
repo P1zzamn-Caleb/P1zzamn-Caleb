@@ -23,7 +23,7 @@ Focused on turning raw sports data into meaningful rankings
 
 📁 Repo: (add link here)
 
-✍️ Handwriting Recognition (CRNN Model)
+### ✍️ Handwriting Recognition (CRNN Model)
 
 A deep learning project that recognizes handwritten words using a convolutional recurrent neural network.
 
