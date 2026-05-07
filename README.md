@@ -35,11 +35,11 @@ Trained on labeled word image datasets
 📁 Repo: [](https://github.com/P1zzamn-Caleb/AI_Handwriting_Project)
 
 ## 🛠️ Tech Stack
-C++
-Python
-PyTorch
-Pandas / NumPy
-HTML / CSS
-PHP
-Selenium
-Git / GitHub
+💻 C++
+🐍 Python
+🤖 PyTorch
+📊 Pandas / NumPy
+🌐 HTML / CSS
+🐘 PHP
+🕷️ Selenium
+🔧 Git / GitHub
