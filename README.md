@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Caleb Ellis
 
-I’m a student interested in software development, data, and machine learning. I like building projects that do something useful and visual.
+I’m a student interested in software development and machine learning. I like building projects that do something useful and visual.
 
 Right now I’m focused on improving my skills in:
 
