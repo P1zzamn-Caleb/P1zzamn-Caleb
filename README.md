@@ -14,10 +14,10 @@ Right now I’m focused on improving my skills in:
 
 A data-driven college basketball ranking system that uses a weighted wins algorithm to evaluate team performance.
 
-Built a full data pipeline using scraped game data
-Designed a custom ranking system based on win quality
-Displayed results through a web interface
-Focused on turning raw sports data into meaningful rankings
+Built a full data pipeline using scraped game data \n
+Designed a custom ranking system based on win quality \n
+Displayed results through a web interface \n 
+Focused on turning raw sports data into meaningful rankings \n 
 
 🔗 Live site: http://www.weightedwins.com/hoops/
 
