@@ -38,7 +38,6 @@ Trained on labeled word image datasets
 💻 C++
 🐍 Python
 🤖 PyTorch
-📊 Pandas / NumPy
 🌐 HTML / CSS
 🐘 PHP
 🕷️ Selenium
